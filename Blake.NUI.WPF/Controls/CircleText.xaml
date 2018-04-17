@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="Blake.NUI.WPF.Controls.CircleText"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid>
+        <Canvas Name="canvasPolygons">
+            
+        </Canvas>
+        <Canvas Name="LayoutRoot" IsHitTestVisible="False">
+
+        </Canvas>
+    </Grid>
+</UserControl>
